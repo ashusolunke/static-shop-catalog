@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "email": "24f1000952@ds.study.iitm.ac.in",
+    "version": "05703991"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "category": "electronics",
+      "price": 29.99,
+      "stock": 150,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Gaming Keyboard",
+      "category": "electronics",
+      "price": 89.99,
+      "stock": 75,
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "name": "4K Monitor",
+      "category": "electronics",
+      "price": 399.99,
+      "stock": 30,
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "name": "Leather Jacket",
+      "category": "clothing",
+      "price": 149.99,
+      "stock": 45,
+      "rating": 4.3
+    },
+    {
+      "id": 5,
+      "name": "Running Shoes",
+      "category": "footwear",
+      "price": 79.99,
+      "stock": 120,
+      "rating": 4.6
+    },
+    {
+      "id": 6,
+      "name": "Backpack",
+      "category": "accessories",
+      "price": 49.99,
+      "stock": 200,
+      "rating": 4.4
+    },
+    {
+      "id": 7,
+      "name": "Smart Watch",
+      "category": "electronics",
+      "price": 249.99,
+      "stock": 50,
+      "rating": 4.6
+    },
+    {
+      "id": 8,
+      "name": "Denim Jeans",
+      "category": "clothing",
+      "price": 59.99,
+      "stock": 180,
+      "rating": 4.2
+    },
+    {
+      "id": 9,
+      "name": "Wireless Earbuds",
+      "category": "electronics",
+      "price": 79.99,
+      "stock": 200,
+      "rating": 4.4
+    },
+    {
+      "id": 10,
+      "name": "Sunglasses",
+      "category": "accessories",
+      "price": 129.99,
+      "stock": 60,
+      "rating": 4.5
+    },
+    {
+      "id": 11,
+      "name": "Winter Coat",
+      "category": "clothing",
+      "price": 199.99,
+      "stock": 35,
+      "rating": 4.8
+    },
+    {
+      "id": 12,
+      "name": "Tablet",
+      "category": "electronics",
+      "price": 329.99,
+      "stock": 40,
+      "rating": 4.5
+    },
+    {
+      "id": 13,
+      "name": "Sandals",
+      "category": "footwear",
+      "price": 34.99,
+      "stock": 150,
+      "rating": 4.1
+    },
+    {
+      "id": 14,
+      "name": "Wallet",
+      "category": "accessories",
+      "price": 24.99,
+      "stock": 300,
+      "rating": 4.3
+    },
+    {
+      "id": 15,
+      "name": "Hoodie",
+      "category": "clothing",
+      "price": 44.99,
+      "stock": 120,
+      "rating": 4.4
+    },
+    {
+      "id": 16,
+      "name": "Digital Camera",
+      "category": "electronics",
+      "price": 549.99,
+      "stock": 25,
+      "rating": 4.7
+    }
+  ],
+  "aggregations": {
+    "electronics": {
+      "count": 7,
+      "inventoryValue": 41207.79
+    },
+    "clothing": {
+      "count": 4,
+      "inventoryValue": 15347.60
+    },
+    "footwear": {
+      "count": 2,
+      "inventoryValue": 5274.65
+    },
+    "accessories": {
+      "count": 3,
+      "inventoryValue": 16799.70
+    }
+  }
+}
